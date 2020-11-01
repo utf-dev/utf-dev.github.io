@@ -28,12 +28,12 @@ https://developer.mozilla.org/en-US/docs/Web/CSS
 
 
 ### JavaScript
-Allows you to implement complex features on web pages to make them more interactive. You 
+Allows you to implement complex features on web pages to make them more interactive.  
 http://www.ecma-international.org/
 
 
 ### PHP (PHP Hypertext Preprocessor)
-A server side scripting language that can collect form data, generate dynamic page content, or send and receive information from a database
+A server side scripting language that can collect form data, generate dynamic page content, or send and receive information from a database  
 https://www.php.net/manual/en/
 
 
@@ -48,42 +48,42 @@ LAMP (Linux, Apache, MySQL, PHP) is a proven set of software for delivering high
 
 
 ### WSL2 (Windows Subsystem for Linux) 
-A compatibility layer for running Linux binary executables natively on Windows 10.
+A compatibility layer for running Linux binary executables natively on Windows 10.  
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 
 ### Docker Desktop
-Allows creation and sharing of virtualizied containers that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
+Allows creation and sharing of virtualizied containers that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.  
 https://www.docker.com/products/docker-desktop
 
 
 ### Ubuntu
-A Linux based Operating System
+A Linux based Operating System  
 https://ubuntu.com/
 
 
 ### Apache Web Server
-A free and open-source cross-platform web server
+A free and open-source cross-platform web server  
 https://httpd.apache.org/
 
 
 ### PHP Server
-A service installed with the web server that allows interpretation and execution of PHP scripts
+A service installed with the web server that allows interpretation and execution of PHP scripts  
 https://www.php.net/
 
 
 ### MySQL
-An open-source relational database management system
+An open-source relational database management system  
 https://www.mysql.com/
 
 
 ### Node
-Write server-side applications with access to the operating system, file system, and everything else required to build fully-functional applications that runs directly in a computer process instead of in a browser.
+Write server-side applications with access to the operating system, file system, and everything else required to build fully-functional applications that runs directly in a computer process instead of in a browser.  
 https://nodejs.org/
 
 
 ### NPM (Node Package Manager)
-A package manager for Node that aids in package installation, version management, and dependency management
+A package manager for Node that aids in package installation, version management, and dependency management  
 https://www.npmjs.com/
 
 
@@ -92,7 +92,7 @@ Below is a list of essential tools you'll need to get started in web development
 
 
 ### Visual Studio Code
-A text editor that includes support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git
+A text editor that includes support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git  
 https://code.visualstudio.com/
 
 
@@ -107,12 +107,12 @@ https://docs.microsoft.com/en-us/powershell/
 
 
 ### DBeaver
-A multi-platform tool for people who need to work with databases. 
+A multi-platform tool for people who need to work with databases.  
 https://dbeaver.io/  
 
 
 ### Chrome DevTools
-Allows you take a look at the internal workings of a website and its applications. You can edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites.
+Allows you take a look at the internal workings of a website and its applications. You can edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites.  
 https://developers.google.com/web/tools/chrome-devtools
 
 
@@ -122,10 +122,10 @@ With a proper setup, you can provide a structure and space for communicating the
  
 
 ### Git
-A distributed version-control system for tracking changes in source code during software development.
+A distributed version-control system for tracking changes in source code during software development.  
 https://git-scm.com/
 
 
 ### GitHub
-A development platform that allows you can host and review code, manage projects, and build software.
+A development platform that allows you can host and review code, manage projects, and build software.  
 https://github.com/
